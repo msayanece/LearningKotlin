@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LearningKotlin</string>
+	<string name="baseUrl">https://api.myjson.com</string>
+</resources>
